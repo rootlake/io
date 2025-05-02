@@ -10,43 +10,43 @@ const PROJECTS = [
     name: 'Daily Checklist',
     url: 'https://rootlake.github.io/daily/',
     updatedAt: '', // Add update date if available
-    icon: '/icons/daily.png'
+    icon: 'icons/daily.png'
   },
   {
     name: 'Codes Against Academy',
     url: 'https://rootlake.github.io/codesagainstacademy',
     updatedAt: '2024-02-20',
-    icon: '/icons/codes.png'
+    icon: 'icons/codes.png'
   },
   {
     name: 'Piepacker',
     url: 'https://rootlake.github.io/piepacker',
     updatedAt: '2024-02-15',
-    icon: '/icons/pie.png'
+    icon: 'icons/pie.png'
   },
   {
     name: 'One-dle',
     url: 'https://rootlake.github.io/one-dle',
     updatedAt: '2024-02-10',
-    icon: '/icons/one.png'
+    icon: 'icons/one.png'
   },
   {
     name: 'Facenames',
     url: 'https://rootlake.github.io/facenames',
     updatedAt: '2024-02-05',
-    icon: '/icons/face.png'
+    icon: 'icons/face.png'
   },
   {
     name: 'Petals',
     url: 'https://rootlake.github.io/petals',
     updatedAt: '2024-02-01',
-    icon: '/icons/petal.png'
+    icon: 'icons/petal.png'
   },
   {
     name: 'Morse Flash',
     url: 'https://rootlake.github.io/morseflash',
     updatedAt: '2024-01-20',
-    icon: '/icons/morse.png'
+    icon: 'icons/morse.png'
   }
 ];
 
