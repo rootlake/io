@@ -4,8 +4,15 @@ import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 import { graphql } from '@octokit/graphql';
 import QRCode from 'qrcode';
+import dailyIcon from './icons/daily.png';
 
 const PROJECTS = [
+  {
+    name: 'Daily Checklist',
+    url: 'https://rootlake.github.io/daily/',
+    updatedAt: '', // Add update date if available
+    icon: dailyIcon
+  },
   {
     name: 'Codes Against Academy',
     url: 'https://rootlake.github.io/codesagainstacademy',
