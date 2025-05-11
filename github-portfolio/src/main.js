@@ -7,6 +7,11 @@ import QRCode from 'qrcode';
 
 const PROJECTS = [
   {
+    name: 'Word Archive',
+    url: 'https://rootlake.github.io/wordarchive/',
+    icon: 'icons/one.png'
+  },
+  {
     name: 'Daily Checklist',
     url: 'https://rootlake.github.io/daily/',
     updatedAt: '', // Add update date if available
