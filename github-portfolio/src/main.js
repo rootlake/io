@@ -12,16 +12,15 @@ const PROJECTS = [
     icon: 'icons/one.png'
   },
   {
-    name: 'Daily Checklist',
-    url: 'https://rootlake.github.io/daily/',
-    updatedAt: '', // Add update date if available
-    icon: 'icons/daily.png'
-  },
-  {
     name: 'Codes Against Academy',
     url: 'https://rootlake.github.io/codesagainstacademy',
     updatedAt: '2024-02-20',
     icon: 'icons/codes.png'
+  },
+  {
+    name: 'Count Clock',
+    url: 'http://rootlake.github.io/countclock/',
+    icon: 'icons/one.png'
   },
   {
     name: 'Piepacker',
@@ -52,6 +51,11 @@ const PROJECTS = [
     url: 'https://rootlake.github.io/morseflash',
     updatedAt: '2024-01-20',
     icon: 'icons/morse.png'
+  },
+  {
+    name: 'Daily Checklist',
+    url: 'https://rootlake.github.io/daily/',
+    icon: 'icons/daily.png'
   }
 ];
 
